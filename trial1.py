@@ -1,3 +1,5 @@
 # this is trial file 
-test=34
-print(test*35)
+test=int(input("enter the number:"))
+def tfxn(check):
+    print(check*50)
+tfxn(test)
